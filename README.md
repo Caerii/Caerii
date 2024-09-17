@@ -15,67 +15,67 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- HEADER -->
-<h1 align="center">🚀 Alif Jakir (Caerii) 🚀</h1>
+<h1 align="center">👨‍💻 Alif Jakir (Caerii) 👨‍💻</h1>
 <p align="center">
-  <strong>AI Engineer | Full-stack Developer | Analytical Philosopher | Transdisciplinary Scientist</strong><br>
+  <strong>AI Engineer | Full-stack Developer | Innovator in Modular Robotics & Brain-Computer Interfaces</strong><br>
   <a href="https://alifjakir.com">🌍 Website</a> | 
   <a href="https://github.com/Caerii">💻 GitHub</a> | 
   <a href="mailto:alif@halcyox.com">📧 Email</a> | 
-  <a href="https://www.linkedin.com/in/alif-jakir">LinkedIn</a> | 
-  +1.631.896.6485
+  <a href="https://www.linkedin.com/in/alif-jakir">LinkedIn</a>
 </p>
 <br>
 
 ---
 
-<!-- OBJECTIVE -->
-<h2 align="center">🎯 Objective</h2>
+<!-- FOCUS -->
+<h2 align="center">⚡ Focus & Expertise</h2>
 <p align="center">
-I’m an AI engineer, computer scientist, and philosopher deeply invested in the future of technology and its intersection with human intelligence. I lead global high-performance teams, pushing the boundaries of AI, modular robotics, and mixed-reality interfaces.
+I’m deeply involved in cutting-edge AI, modular robotics, and the integration of brain-computer interfaces with real-time VR and AI systems. My GitHub is where I showcase my active projects, technical contributions, and research in engineering.
 </p>
 
 ---
 
-<!-- PROFESSIONAL EXPERIENCE -->
-<h2 align="center">💼 Professional Experience</h2>
+<!-- TECHNICAL PROJECTS -->
+<h2 align="center">🚀 Featured Technical Projects</h2>
 
-### MIT Media Lab - Neurafutures | Research Programmer (Sept 2022 - Present)
-- Led the design and implementation of a **3D character animation pipeline** for holographic display systems, controlled by EEG and Leap Motion. 
-- Conducted research into **Brain-Computer Interface (BCI)** for mixed-reality applications, with ongoing open-source contributions to **Human Augmentation** projects. 
+### 🔹 [**MIT Media Lab – Brain-Controlled 3D Animation**](https://github.com/Caerii/brain-controlled-animation)
+- **Tech Stack**: EEG, Leap Motion, Python, Blender, Real-time 3D rendering
+- Developed EEG-controlled **3D holographic animation** pipeline. This system leverages **Brain-Computer Interfaces (BCIs)** to enable touchless, immersive control. The project was showcased at the MIT Museum.
 
-### Xoul.AI | AI Engineer (Nov 2023 - Feb 2024)
-- Developed **Hybrid Fuzzy Retrieval Augmented Generation (RAG)** systems for creating interactive conversational characters in **GenAI**.
-- Optimized vector retrieval systems to scale **billion+ tokens** in real-time response applications.
+### 🔹 [**Solar Estimator**](https://solarestimator.com)
+- **Tech Stack**: Next.js, Elasticsearch, Google Sunroof API
+- Built a web application to estimate solar savings, optimizing the system for **lead generation** using **AI-based algorithms**. Integrated **Google Sunroof API** for real-time solar panel cost-benefit analysis.
 
-### Halcyox LLC | Founder & CEO (Jun 2021 - Present)
-- Lead a team of AI researchers to develop **Virtual 3D Avatars** and deploy **LLMs** for human learning augmentation at scale, focusing on corporate enterprise use cases.
-- Created **AI-generated YouTube content**, accumulating 6.6M impressions, 895K views, and $3K in revenue through narrative-driven philosophical explorations.
+### 🔹 [**Moodspace - MIT Reality Hack 2022**](https://github.com/Caerii/moodspace)
+- **Tech Stack**: XR, Hololens, EEG, Unity3D
+- Designed an emotionally-aware meta-conversation system that adjusts conversations based on **real-time biometric data** using **Hololens** and **EEG sensors**. This project was a finalist at the **MIT Reality Hack**.
 
-### NASA RASC-AL | Global Lead (Sept 2021 - May 2022)
-- Headed a multi-national collaboration for a **modular nuclear storage infrastructure** on the Lunar South Pole, adhering to **NASA Systems Engineering** principles.
+### 🔹 [**Modular Aerial Robotics**](https://github.com/Caerii/modular-aerial-robotics)
+- **Tech Stack**: ROS, Python, Unity3D, VR
+- Researching and building **modular drone systems** with precision manipulators controlled by real-time **VR** interfaces and deep reinforcement learning.
 
----
-
-<!-- UNPUBLISHED PROJECTS -->
-<h2 align="center">🔬 Unpublished Projects & Research</h2>
-<p align="center">
-I’m constantly experimenting with ideas and pushing new boundaries in AI, robotics, and computing. These are some of the most intriguing unpublished projects I'm working on:
-</p>
-
-- **Superintelligent Human-Machine Teams**: Exploring the integration of AI into human teams, minimizing latency and friction in decision-making with **AI co-agents**.
-  
-- **Modular Aerial Robotics**: Designing drones with **dual-hand precision manipulators**, controlled via **real-time VR interfaces** and **deep reinforcement learning**.
-  
-- **Neural Nanotechnology**: Developing a proof-of-concept for **self-organizing neural circuits** and their implications on AI training models.
-  
-- **Programmable Photonics for Deep Learning**: Investigating **neuromorphic programmable photonics** to accelerate AI computations by mimicking human neural pathways.
-
-- **Metacognition in AI Systems**: Crafting a framework for **machine metacognition**, allowing AI systems to self-analyze and adapt their strategies for complex tasks.
+### 🔹 [**AI Code Assistant**](https://github.com/Caerii/ai-code-assistant)
+- **Tech Stack**: GPT, PyTorch, Node.js
+- An open-source project that enables codebase interaction with **AI agents**, allowing users to generate, review, and debug code across large repositories.
 
 ---
 
-<!-- GITHUB STATS & AWARDS -->
-<h2 align="center">📈 GitHub Stats & Trophies</h2>
+<!-- RESEARCH & DEVELOPMENT -->
+<h2 align="center">🔬 Research & Development</h2>
+
+### **Superintelligent Human-Machine Teams**
+- Exploring **human-AI collaboration** by integrating **AI co-agents** into decision-making processes. Focused on reducing friction between human reasoning and machine intelligence.
+
+### **Metacognition in AI Systems**
+- Developing frameworks for **machine metacognition**, allowing AI systems to **self-reflect** on decision processes and **adapt** strategies for complex problem solving.
+
+### **Neural Nanotechnology**
+- Investigating **self-organizing neural circuits** and their impact on AI training models. This work focuses on **neuromorphic computing** and future advancements in AI computation.
+
+---
+
+<!-- GITHUB STATS & TROPHIES -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Caerii&theme=dark&background=000000" alt="GitHub Streak Stats" width="45%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caerii&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="45%"/>
@@ -86,50 +86,8 @@ I’m constantly experimenting with ideas and pushing new boundaries in AI, robo
 
 ---
 
-<!-- RESEARCH & EDUCATION -->
-<h2 align="center">🎓 Research & Education</h2>
-
-### MIT Center for Collective Intelligence (Jan 2023 - Present)
-- Building AI tools for **swarm intelligence** and developing practical methods for human-AI collaboration using a **Chain of Agents** methodology.
-
-### Harvard AI Incubator | FabulousFables (Sept 2023 - May 2024)
-- Lead team in developing a **generative storytelling AI**. Worked on infrastructure and **UI/UX design** to create a seamless experience for AI-driven collaborative storytelling.
-
-### Clarkson University | B.S. in Computer Science, Business Intelligence & Data Analytics (May 2023)
-- **Minors**: Robotics, Mathematics. **GPA**: 3.8.
-- Completed coursework in **Advanced Deep Learning**, **3D Digital Modeling**, **Complex Networks**, and **Applied Data Analytics**.
-
----
-
-<!-- TECHNOLOGY STACK -->
-<h2 align="center">💻 Technology Stack</h2>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="AWS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" width="40" height="40" />
-</p>
-
----
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-- **MIT Media Lab – Brain-Controlled 3D Animation**: Developed EEG-controlled holographic animations using **Leap Motion** for real-time touchless interaction. Project showcased at the MIT Museum.
-  
-- **Solar Estimator**: Created **SolarEstimator.com**, enabling homeowners to estimate solar savings by integrating Google Sunroof API and Elasticsearch for **lead generation optimization**.
-
-- **Moodspace - MIT Reality Hack 2022**: Built an **emotionally aware XR platform** using Hololens and EEG sensors, allowing real-time biometric-driven conversation adjustments.
-
-- **LifeInBetweenXR - MIT Reality Hack 2023**: Developed a **mobile 3D mesh mapping system** to interconnect users with their environments, semifinalist project.
-
----
-
-<!-- BLOG POSTS -->
-<h2 align="center">📊 Creative Projects & Blog Posts</h2>
+<!-- BLOGS -->
+<h2 align="center">📚 Blog Posts & Research Papers</h2>
 
 **Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
@@ -137,23 +95,27 @@ I’m constantly experimenting with ideas and pushing new boundaries in AI, robo
 - *[3D Modeling with Blender](https://alifjakir.com/blog/3d-modeling-blender)* - An in-depth guide to creating 3D models in Blender.
 <!-- BLOG-POST-LIST:END -->
 
+**Research Papers:**
+- **Superintelligent Human-Machine Teams**: [Read more](https://arxiv.org/somepaper).
+- **Programmable Photonics for AI**: [Read more](https://arxiv.org/somepaper).
+
 ---
 
-<!-- JOKES & FUN -->
-<h2 align="center">🎉 Fun & Humor</h2>
-
-**Joke of the Day:**
+<!-- OVERLEAF LINK -->
+<h2 align="center">📄 Full CV</h2>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke of the Day">
+For a detailed view of my full experience, including professional background and unpublished projects, please check out my CV on Overleaf:
+</p>
+<p align="center">
+  <a href="https://www.overleaf.com/read/nvfhfhmyqqxg#951fa7" target="_blank">
+    <img src="https://img.shields.io/badge/CV-View%20Here-brightgreen?style=for-the-badge&logo=overleaf" alt="Overleaf CV">
+  </a>
 </p>
 
-**Random Quote:**
-> "The only way to do great work is to love what you do." – Steve Jobs
-
 ---
 
-<!-- CONTACT INFO -->
-<h2 align="center">🚀 Contact Me</h2>
+<!-- CONTACT -->
+<h2 align="center">🚀 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alif-jakir">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -162,3 +124,4 @@ I’m constantly experimenting with ideas and pushing new boundaries in AI, robo
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
+
