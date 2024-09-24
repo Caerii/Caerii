@@ -24,6 +24,8 @@ I specialize in cutting-edge AI, modular robotics, and integrating brain-compute
 <!-- TECHNICAL PROJECTS -->
 <h2 align="center">🚀 Featured Technical Projects</h2>
 
+(Links not currently public as code gets properly organized)
+
 ### 🔹 [**MIT Media Lab – Brain-Controlled 3D Animation**](https://github.com/Caerii/brain-controlled-animation)
 - **Tech Stack**: Python, Blender, EEG, Leap Motion, Unity, Python API, WebSocket, Real-time rendering
 - **Architecture**:
