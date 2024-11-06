@@ -16,7 +16,7 @@
 <!-- FOCUS -->
 <h2 align="center">⚡ Focus & Expertise</h2>
 <p align="center">
-I specialize in cutting-edge AI, modular robotics, and integrating brain-computer interfaces into real-time VR systems. My work combines deep technical knowledge with innovation in emerging technologies, and this GitHub is all about showcasing those projects.
+I specialize in cutting-edge AI, modular robotics, and integrating brain-computer interfaces into real-time VR systems. My work combines deep technical knowledge with innovation in emerging technologies, and this GitHub is all about showcasing those projects. I am currently still learning quite a lot and have quite a lot of projects that are a work in progress! Come check out some of the stuff we have, it's currently poorly organized, but it'll get better over time!
 </p>
 
 ---
