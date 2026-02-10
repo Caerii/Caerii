@@ -11,6 +11,8 @@
 </p>
 <br>
 
+Why do we create stuff at all... as human beings?
+
 ---
 
 <!-- FOCUS -->
