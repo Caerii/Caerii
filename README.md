@@ -17,10 +17,6 @@
   <a href="#repos-worth-opening"><strong>jump to the good ones</strong></a> ·
 </p>
 
-<p align="center">
-  <img src="./assets/profile-metrics.svg" alt="GitHub profile metrics" />
-</p>
-
 ## hi
 
 I'm Alif. I keep coming back to the same problem: most software treats people as operators sitting in front of a screen, but the interesting work happens in rooms, in bodies, between people, across time. I want to build the interfaces for *that*.
