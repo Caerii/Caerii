@@ -180,7 +180,7 @@ This is a machine-generated index of my owned repos (sorted by most recent pushe
 | [Task-Matrix-Flow](https://github.com/Caerii/Task-Matrix-Flow) | Repository for https://replit.com/@AlJ3/Task-Matrix-Flow | TypeScript |
 | [feb_2_26_multi_agent_research](https://github.com/Caerii/feb_2_26_multi_agent_research) | research tranch | Python |
 | [MicrocosmXR](https://github.com/Caerii/MicrocosmXR) | MicrocosmXR is a multiplayer XR sandbox with semantic scene understanding for being gods of a virtual civilization. | C# |
-| [OpenAlterEgo-v0.2](https://github.com/Caerii/OpenAlterEgo-v0.2) | test draft of open alter ego | Python |
+| [OpenAlterEgo-v0.2](https://github.com/Caerii/OpenAlterEgo-v0.2) | test draft of open alter ego, for silent speech interfacing | Python |
 | [LaborRightsNYC](https://github.com/Caerii/LaborRightsNYC) | Reforming labor in NYC - evidence and data | TypeScript |
 | [LifeInBetweenXR](https://github.com/Caerii/LifeInBetweenXR) | Reality Hack 2023 3D Map Viewer | C# |
 | [smartsight-backend](https://github.com/Caerii/smartsight-backend) | spinoff smartsight | JavaScript |
