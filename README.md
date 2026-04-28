@@ -19,7 +19,7 @@
 
 ## hi
 
-I'm Alif. I keep coming back to the same problem: most software treats people as operators sitting in front of a screen, but the interesting work happens in rooms, in bodies, between people, across time. I want to build the interfaces for *that*.
+I'm Alif. I keep coming back to the same problem: most software treats people as operators sitting in front of a screen, but the interesting work happens in rooms, in bodies, between people, across time. I want to build the interfaces for *that*. I massively support open source software, and am constantly experimenting and expanding my skills.
 
 In practice I end up somewhere between XR, brain-computer interfaces, multi-agent systems, and modular robotics. I studied in the US and at DTU in Denmark, did MIT Reality Hack in 2023 and 2026, and now run [Superintelligent Group](https://www.superintelligent.group). Before that I worked through Halcyox. Some of these repos are polished. Most aren't. The messy ones are usually the most recent.
 
