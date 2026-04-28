@@ -1,0 +1,26 @@
+name: Profile Metrics
+
+on:
+  schedule:
+    - cron: "20 18 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Caerii
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/profile-metrics.svg
+          base: header, activity, repositories
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 10
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
