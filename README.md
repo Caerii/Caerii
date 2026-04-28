@@ -25,9 +25,9 @@ so in practice I end up somewhere between XR, brain-computer interfaces, multi-a
 
 right now I advise engineering & research at [Doppel Labs](https://www.doppellabs.ai/) and [Wallace](https://www.wallace.so/). I’m also collaborating with [Augmentiv Labs](https://www.augmentivlabs.com/) on a scientific reproducibility stack that uses smartglasses to make lab procedures verifiable and repeatable. Previously, I was the first engineer at nanotechnology collaboration and simulation platform [FabuBlox](https://www.fabublox.com/) (MIT Media Lab spinout), Nov 2024–Aug 2025. 
 
-I attended undergrad in Potsdam, NY at Clarkson University from 2019-2023 for a dual degree in Computer Science, and Business Intelligence & Data Analytics.
+I attended undergrad in Potsdam, NY at Clarkson University from 2019-2023 for a dual degree in Computer Science, and Business Intelligence & Data Analytics w/ a minor in Robotics & Math.
 
-I conducted research at the [Terascale All-Sensing Research Studio](https://tars-home.github.io/) (TARS) under Sean and Natasha Banerjee in XR, robotics, CV, MLK, and AI. During u.g. I also ran the [Google Developer Student Club](https://www.instagram.com/clarkson_gdsc/), teaching people about XR, Cloud, and Web technologies for 2 years.
+I conducted research at the [Terascale All-Sensing Research Studio](https://tars-home.github.io/) (TARS) under Sean and Natasha Banerjee in XR, robotics, CV, MLK, and AI. During u.g. I also ran the Google sponsored [Google Developer Student Club](https://www.instagram.com/clarkson_gdsc/), teaching people about XR, Cloud, and Web technologies for 2 years. I first started becoming really swag once I started attending MIT Reality Hack which I disccovered through running the GDSC, which propelled my career in experimental creative and augmentation technology.
 
 I also once prompted AI to generate [a dating website for worms](https://slitherin.vercel.app/) and [inspired someone to stageplay my AI-generated youtube dialogues at an off-broadway theater in Brooklyn](https://github.com/Caerii/AI_Dialogues_2022), so calibrate accordingly.
 
