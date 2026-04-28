@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://github.com/Caerii?tab=repositories"><strong>browse 190+ repos</strong></a> ·
   <a href="#repos-worth-opening"><strong>jump to the good ones</strong></a> ·
-  <a href="#project-constellation"><strong>project constellation</strong></a>
 </p>
 
 <p align="center">
@@ -27,6 +26,8 @@
 I'm Alif. I keep coming back to the same problem: most software treats people as operators sitting in front of a screen, but the interesting work happens in rooms, in bodies, between people, across time. I want to build the interfaces for *that*.
 
 In practice I end up somewhere between XR, brain-computer interfaces, multi-agent systems, and modular robotics. I studied in the US and at DTU in Denmark, did MIT Reality Hack in 2023 and 2026, and now run [Superintelligent Group](https://www.superintelligent.group). Before that I worked through Halcyox. Some of these repos are polished. Most aren't. The messy ones are usually the most recent.
+
+Right now I advise engineering at [Doppel Labs](https://www.doppellabs.ai/) and [Wallace](https://www.wallace.so/). I’m also collaborating with [Augmentiv Labs](https://www.augmentivlabs.com/) on a scientific reproducibility stack that uses smartglasses to make lab procedures verifiable and repeatable. Previously, I was the first engineer at [FabuBlox](https://www.fabublox.com/) (MIT Media Lab nanotech spinout), Nov 2024–Aug 2025.
 
 I also once prompted AI to generate [a dating website for worms](https://slitherin.vercel.app/) and [inspired someone to stageplay my AI-generated youtube dialogues at an off-broadway theater in Brooklyn](https://github.com/Caerii/AI_Dialogues_2022), so calibrate accordingly.
 
@@ -46,46 +47,63 @@ If you’re trying to understand range quickly: this account is a mix of XR prot
 
 ## repos worth opening
 
-| area | repo | what | notes |
-|---|---|---|---|
-| stroke interfaces | [**codrawer-bridge**](https://github.com/Caerii/codrawer-bridge) | stroke-native co-drawing bridge for reMarkable Paper Pro ↔ desktop ↔ AI “ghost strokes” | the one I care about most right now |
-| research & science | [**TYPHON**](https://github.com/Caerii/TYPHON) | hierarchical cross-episodic associative memory for agents | long-horizon “structure accretes” memory |
-| multi-agent research | [**CollaborationCircuitsMechInterp**](https://github.com/Caerii/CollaborationCircuitsMechInterp) | mech interp for *between-agent* collaboration dynamics | actual research tranche |
-| multi-agent research | [**feb_2_26_multi_agent_research**](https://github.com/Caerii/feb_2_26_multi_agent_research) | experiments & explorations on multi-agent systems | research notebook repo |
-| flagship research | [**assemblies**](https://github.com/Caerii/assemblies) | Code for NEMO, and Assembly Calculus | operationalizing Anthropic-style work; core motif |
-| hackathon win | [**SocietyofScientists**](https://github.com/Caerii/SocietyofScientists) | MIT AGI Hackathon 1st Place Winner (9-28-24) | fork repurposed into “my own shit” |
-| mech interp tooling | [**circuit-tracer**](https://github.com/Caerii/circuit-tracer) | open-source circuit tracing library | fork repurposed into its own pip package |
-| CAD stack contributions | [**OpenCAD**](https://github.com/Caerii/OpenCAD) | modular, service-oriented CAD | intentional contributions (not just a mirror) |
-| CAD stack contributions | [**SimCorrect**](https://github.com/Caerii/SimCorrect) | CAD geometry fault detection/correction for sim-to-real | intentional contributions (not just a mirror) |
-| environment generation | [**OpenEnvironment**](https://github.com/Caerii/OpenEnvironment) | natural language → procedural 3D terrain (heightmaps, splatmaps, voxels) | FastAPI backend + React/Three frontend; parsing strategies + quality/refinement loop |
-| XR / BCI | [**OpenGalea**](https://github.com/Caerii/OpenGalea) | colocated multiplayer mixed reality controlled by EEG (OpenBCI Cyton + Quest 3) | MIT Reality Hack 2025 Meta track winner; 3D-printed headset integration + low-latency UDP pipeline |
-| XR / spatial | [**MicrocosmXR**](https://github.com/Caerii/MicrocosmXR) | multiplayer XR “god sandbox” for shared world-model editing | world-models in 3D, socially |
-| XR / spatial | [**LifeInBetweenXR**](https://github.com/Caerii/LifeInBetweenXR) | MIT Reality Hack 2023 3D map viewer | hackathon sprint that shipped |
-| XR / spatial | [**SemanticTerrain**](https://github.com/Caerii/SemanticTerrain) | natural-language-driven terrain generation | “describe → build” landscapes |
-| XR / spatial | [**3D-Web-Sandbox**](https://github.com/Caerii/3D-Web-Sandbox) | physics sandbox in the browser | “I want to see things move” |
-| XR / spatial | [**WearableHolographicTheatreKid**](https://github.com/Caerii/WearableHolographicTheatreKid) | wearable holographic theater piece | built w/ Sylas Horowitz |
-| tools & platforms | [**VisuaML**](https://visuaml.com/) | visual ML editor on the web | design-tool UX for ML |
-| tools & platforms | [**smartsight-backend**](https://github.com/Caerii/smartsight-backend) | backend for SmartSight accessibility/vision project | production-ish backend work |
-| tools & platforms | [**Task-Matrix-Flow**](https://github.com/Caerii/Task-Matrix-Flow) | task-flow matrix tool | |
-| tools & platforms | [**AI-ID**](https://github.com/Caerii/AI-ID) | qualitative “carry-context” layer for AI apps | identity w/o surveillance |
-| tools & platforms | [**SwarmIDE-Alpha**](https://github.com/Caerii/SwarmIDE-Alpha) | early flow-state multi-agent creation environment | precursor thread |
-| web / satire | [**unlinkedin.org**](https://www.unlinkedin.org/) | “work clicker.” | mild satire, real build |
-| audio / physics | [**3d-audio-visualizer**](https://github.com/Caerii/3d-audio-visualizer) | 3D acoustic wave visualization sandbox (R3F/Three) | wave field + camera-parallel iso-contour “topo” slices; ray + image-source-method impulse experiments |
-| robotics / swarms | [**MosaicDrone**](https://github.com/Caerii/MosaicDrone) | “programmable aerial voxels” — modular, self-assembling omnidirectional drone swarm (WIP, mostly schematics) | mid-air docking + shared power/data; ROS 2 orchestration; gesture/AR control with sub-80ms targets |
-| product / markets | [**CommonQuant.com**](https://www.commonquant.com) | modern web platform for AI-powered market analysis | Next.js 14 + TypeScript + Chakra UI; Cerebras-backed analysis; D3/Recharts visualizations |
-| research & science | [**fast360compression**](https://github.com/Caerii/fast360compression) | saliency-based compression for 360° video | real research code |
-| research & science | [**Low-Light-Enhancement-GAN**](https://github.com/Caerii/Low-Light-Enhancement-GAN) | low-light enhancement via GANs | computational photography |
-| research & science | [**CS473-ComputerVisionClass**](https://github.com/Caerii/CS473-ComputerVisionClass) | full semester of CV work | |
-| research & science | [**IS426_Audio2Spectrogram**](https://github.com/Caerii/IS426_Audio2Spectrogram) | audio → spectrogram pipeline | |
-| research & science | [**Kernel-Optimization-Puzzles**](https://github.com/Caerii/Kernel-Optimization-Puzzles) | GPU kernel optimization puzzles | |
-| research & science | [**WhyHowBeta**](https://github.com/Caerii/WhyHowBeta) | experimental WhyHow.AI graph toolkits implementation | |
-| creative / early | [**TheBabelBook**](https://github.com/Caerii/TheBabelBook) | Library of Babel, but with GPT-3 | one of my favorites |
-| creative / early | [**GraphicsGame**](https://github.com/Caerii/GraphicsGame) | JavaScript graphics class final game | |
-| creative / early | [**GPT3WebSummarizer**](https://github.com/Caerii/GPT3WebSummarizer) | early GPT-3: URL → summary | 2021-era artifact |
-| creative / early | [**ClackPublic**](https://github.com/Caerii/ClackPublic) | client-server comms with GUI | networking fundamentals |
-| writing / theory | [**criticaltheory-wiki**](https://criticaltheory.wiki/) | applied critical theory wiki | live wiki |
-| civic | [**LaborRightsNYC**](https://github.com/Caerii/LaborRightsNYC) | reforming labor in NYC, backed by evidence and data | |
-| civic | [**Carbon-Fee-and-Dividend-Simulator**](https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator) | MA carbon fee policy simulator | |
+If you only open a few things, open the repos whose **notes** tell you how to run it / what to click / what artifact to look at first.
+
+### coordination & multi-agent infrastructure
+
+| repo | what | notes |
+|---|---|---|
+| [**superintelligent.group**](https://superintelligent.group/) | swarm-native collaborative software development environment | open `docs/architecture/CONCEPTUAL_OVERVIEW.md` for the “VAC” model |
+| **git2.org** | swarm-native version control built on git | run `git2-mcp`; entity-level locking + intent-aware commits |
+| **arxiv2.org** | “paper → living project” bridge (paste arXiv URL/ID) | start with `docker compose up` (web+api), then hit `/api/resolve` |
+| [**SwarmIDE-Alpha**](https://github.com/Caerii/SwarmIDE-Alpha) | collaborative doc + editor where agents work *in the same space as you* | start `pnpm run server` + `pnpm run dev` (Monaco + Yjs/Y-Sweet) |
+| [**AI-ID**](https://github.com/Caerii/AI-ID) | user-owned context layer for AI apps (auth + scoped memory grants) | open `ai-id-app/`; scopes + store/retrieve APIs; optional pgvector |
+| [**Unionize.Software**](https://www.unionize.software) | privacy-first worker decision-routing + encrypted organizer intake | open the guides corpus via the shipped CLI + local MCP server |
+
+### mechanistic interpretability & computational cognition
+
+| repo | what | notes |
+|---|---|---|
+| [**circuit-tracer**](https://github.com/Caerii/circuit-tracer) | find/visualize/intervene on circuits using transcoder features | open `demos/circuit_tracing_tutorial.ipynb` (end-to-end) |
+| [**CollaborationCircuitsMechInterp**](https://github.com/Caerii/CollaborationCircuitsMechInterp) | social cognition / ToM circuits in LLMs (multi-agent settings) | open `EXPERIMENTAL_PLAN.md` + `METHODOLOGY.md` first |
+| [**assemblies**](https://github.com/Caerii/assemblies) | neural assembly calculus runtime + research workspace (`neural-assemblies`) | run `uv run python examples/01_basic_assembly_calculus.py` |
+| [**TYPHON**](https://github.com/Caerii/TYPHON) | hierarchical memory research harness for long-context / cross-episode eval | run `uv run typhon evaluate-memory-suite ...` (docs have runbooks) |
+| [**SocietyofScientists**](https://github.com/Caerii/SocietyofScientists) | multi-agent grant proposal generator (AG2 + AI21 Jamba + Exa) | start backend, then `frontend/` → wizard; export PDF/DOCX/LaTeX |
+| [**feb_2_26_multi_agent_research**](https://github.com/Caerii/feb_2_26_multi_agent_research) | local 407-paper multi-agent research corpus + tools | run `python search_papers.py \"keyword\"` |
+
+### XR / wearables / embodied interfaces
+
+| repo | what | notes |
+|---|---|---|
+| [**OpenGalea**](https://github.com/Caerii/OpenGalea) | colocated multiplayer MR controlled by EEG (OpenBCI Cyton + Quest 3) | open Devpost/demo links in the README; hardware + setup sections are real |
+| [**codrawer-bridge**](https://github.com/Caerii/codrawer-bridge) | Remarkable Paper Pro strokes → AI ghost-layer ink (co-drawing infra) | start at `docs/protocol.md` + `docs/latency_budget.md` |
+| [**DelightfulOS**](https://github.com/delightfulvision/DelightfulOS) | “internet of bodies” OS: sensors → signal bus → policies → AR overlays | run demo script, then open the dashboard (`/dashboard`) |
+| [**OpenEgoLens**](https://github.com/Caerii/OpenEgoLens) | hackable egocentric camera gateway (stream + control + AI snapshots) | run gateway + UI; frame sampling (1–2s) is the core design choice |
+| [**LifeInBetweenXR**](https://github.com/Caerii/LifeInBetweenXR) | MIT Reality Hack 2023 3D map viewer | open and run the Unity project |
+| [**MicrocosmXR**](https://github.com/Caerii/MicrocosmXR) | multiplayer XR sandbox for shared world-building | explore Unity project + Minecraft integration experiments |
+| [**WearableHolographicTheatreKid**](https://github.com/Caerii/WearableHolographicTheatreKid) | wearable holographic theater piece | open the repo and skim the artifacts |
+
+### robotics / CAD / sim-to-real
+
+| repo | what | notes |
+|---|---|---|
+| [**OpenCAD**](https://github.com/Caerii/OpenCAD) | modular CAD stack: kernel + solver + feature-tree + agent + viewport | start viewport in mock mode, then flip `VITE_USE_MOCK=false` for live services |
+| [**SimCorrect**](https://github.com/Caerii/SimCorrect) | autonomous sim-model fault detection + correction loop | run a `Problem*_*/demo.py` to watch detect → fix → verify |
+| [**MosaicDrone**](https://github.com/Caerii/MosaicDrone) | “programmable aerial voxels” — modular self-assembling omnidirectional drone swarm | start at “MOSAIC defined” + architecture diagrams in the README |
+| [**OpenEnvironment**](https://github.com/Caerii/OpenEnvironment) | natural language → procedural 3D terrain (heightmaps/splatmaps/voxels) | start backend + web, then try the example prompts (“create a desert…”) |
+
+### web / products / odd but real
+
+| repo | what | notes |
+|---|---|---|
+| [**VisuaML**](https://visuaml.com/) | visual ML editor on the web | open the live site, then the repo for implementation |
+| [**CommonQuant.com**](https://www.commonquant.com/) | AI-powered market analysis web platform | start the web app and click through the core flows |
+| [**3d-audio-visualizer**](https://github.com/Caerii/3d-audio-visualizer) | 3D acoustic wave visualization sandbox | start `pnpm dev`; open `src/visualization/IsometricWaveScene.tsx` |
+| [**slither.in**](https://slitherin.vercel.app/) | dating site for worms + tiny arcade game | open the live site; “Squiggle” is the hidden proof-of-craft |
+| [**smartsight-backend**](https://github.com/Caerii/smartsight-backend) | backend for SmartSight accessibility/vision project | skim routes/services; it’s real backend glue work |
+| [**TheBabelBook**](https://github.com/Caerii/TheBabelBook) | Library of Babel, but with GPT-3 | open the README + core generation logic |
+| [**criticaltheory-wiki**](https://criticaltheory.wiki/) | applied critical theory wiki | open the live wiki, then the repo for content mechanics |
+| [**fast360compression**](https://github.com/Caerii/fast360compression) | saliency-based 360° video compression research code | run/skim the core C pipeline and results |
 
 ### index (the wider perimeter)
 
@@ -145,6 +163,8 @@ This is a machine-generated index of my owned repos (sorted by most recent pushe
 <details>
 <summary><strong>open the full repo index (auto-generated)</strong></summary>
 
+| repo | what | lang |
+|---|---|---|
 | [slither.in](https://slitherin.vercel.app/) | a dating website for worms | JavaScript |
 | [CommonQuant.com](https://www.commonquant.com/) | AI quantitative trading for everyone | TypeScript |
 | [Caerii](https://github.com/Caerii/Caerii) | All about Alif's funky wunky stuff |  |
@@ -170,7 +190,7 @@ This is a machine-generated index of my owned repos (sorted by most recent pushe
 | [criticaltheory-wiki](https://criticaltheory.wiki/) | a wiki for the new era of applied critical theory | MDX |
 | [theaicodecompany.com](https://www.theaicodecompany.com/) | concept for a portable virtual AI company | TypeScript |
 | [unlinkedin.org](https://www.unlinkedin.org/) | work clicker. | TypeScript |
-| [SemanticTerrain](https://github.com/Caerii/SemanticTerrain) | natural language driven terrain generation system | Python |
+| [OpenEnvironment](https://github.com/Caerii/OpenEnvironment) | natural language driven game environment generation system | Python |
 | [SwarmIDE-Alpha](https://github.com/Caerii/SwarmIDE-Alpha) | flow-state enhancing multi-agent project creation | TypeScript |
 | [Caerii.github.io](https://github.com/Caerii/Caerii.github.io) |  | HTML |
 | [nanotech.school](https://www.nanotech.school/) | intuitive ways to learn nanotechnology on the web | TypeScript |
@@ -179,7 +199,6 @@ This is a machine-generated index of my owned repos (sorted by most recent pushe
 | [Kernel-Optimization-Puzzles](https://github.com/Caerii/Kernel-Optimization-Puzzles) | Kernel Optimization Challenges | Python |
 | [Carbon-Fee-and-Dividend-Simulator](https://github.com/Caerii/Carbon-Fee-and-Dividend-Simulator) | carbon fee simulator for changing mass state level policy | Python |
 | [Zaqathon-submission](https://github.com/Caerii/Zaqathon-submission) |  | TypeScript |
-| [mommarfia.org](https://github.com/Caerii/mommarfia.org) | Mom's nonprofit organization website for Bangladesh | TypeScript |
 | [High-Frequency-Financial-Modeling-Python](https://github.com/Caerii/High-Frequency-Financial-Modeling-Python) | For our own learning and experimentation on financial information | Python |
 | [Massive-Multiplayer-Vibe-Coding](https://github.com/Caerii/Massive-Multiplayer-Vibe-Coding) | A novel paradigm for multiplayer vibe coding |  |
 | [StigmergySimulator](https://github.com/Caerii/StigmergySimulator) | cool shader toys |  |
@@ -301,9 +320,5 @@ Forks of things I am exploring, working on contributions to, or are saving (sort
 | [Awesome-DLMs](https://github.com/Caerii/Awesome-DLMs) | The official GitHub repo for the survey paper "A Survey on Diffusion Language Models". (live: https://arxiv.org/abs/2508.10875) |  |
 
 </details>
-
-## project constellation
-
-[![3D project graph](./assets/project-constellation-preview.gif)](https://caerii.github.io/constellation)
 
 [website](https://www.alifjakir.com/) · [email](mailto:alif@superintelligent.group) · [linkedin](https://www.linkedin.com/in/alif-jakir)
