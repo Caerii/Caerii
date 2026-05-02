@@ -21,23 +21,25 @@
 
 i'm Alif ! I keep coming back to the same problem: most software treats people as operators sitting in front of a screen, but the interesting work happens in rooms, in bodies, between people, across time. I want to build the interfaces for *that*. I massively support open source software, and am constantly experimenting and expanding my skills.
 
-so in practice I end up somewhere between XR, brain-computer interfaces, multi-agent systems, and modular robotics. I studied for my undergrad at Clarkson University in the US, and at DTU in Denmark, and now I'm an affiliated researcher at the MIT Media Lab, Fluid Interfaces group doing gnarly interdisciplinary and fundamental work. 
+so in practice I end up somewhere between XR, brain-computer interfaces, multi-agent systems, and modular robotics. 
 
-I did MIT Reality Hack every year from 2022 to 2026 (fellow hackers reach out 2 me for opportunities!!), and now run [Superintelligent Group](https://www.superintelligent.group). in 2024 I was the first non-founding engineer at [Fabublox](https://www.fabublox.com/), an MIT Nanotechnology communication and process design spin-out startup where I upgraded their process editor, created their version control system, and built out a full-stack AI system called PANDA (Process && Nanofab Design Assistant) to help Fab Services be more intuitive to access across facilities, among other awesome things (like accelerating the entire dev team w/ Vite && Cursor && Claude).
+I studied for minors in robotics && math, with my dual degree in Computer Science + Business Intelligence && Data Analytics with an undergrad at Clarkson University from 2019-2023 in the US, and at DTU in Denmark, and... I wanted to build new organizations, technologies, startups, philosophies, and scientific fields.
 
-before that I worked through Halcyox, my distributed advanced HCI R&D company. Some of these repos are polished... some are messy, as a perfectionist I now try to build in public as much as I can, I know all too well that learning in a (vacuum) produces unproductive outcomes...
+now I'm an affiliated researcher at the MIT Media Lab, Fluid Interfaces group for the last few years doing gnarly interdisciplinary and fundamental work.
 
-right now I advise engineering & research at [Doppel Labs](https://www.doppellabs.ai/) and [Wallace](https://www.wallace.so/). I’m also collaborating with [Augmentiv Labs](https://www.augmentivlabs.com/) on a scientific reproducibility stack that uses smartglasses to make lab procedures verifiable and repeatable. Previously, I was the first engineer at nanotechnology collaboration and simulation platform [FabuBlox](https://www.fabublox.com/) (MIT Media Lab spinout), Nov 2024–Aug 2025. 
+I did MIT Reality Hack every year from 2022 to 2026 (fellow hackers reach out 2 me for opportunities!!), and now run [Superintelligent Group](https://www.superintelligent.group) AKA ΣIG.
 
-I attended undergrad in Potsdam, NY at Clarkson University from 2019-2023 for a dual degree in Computer Science, and Business Intelligence & Data Analytics w/ a minor in Robotics & Math.
+before ΣIG, I worked through Halcyox, my distributed advanced HCI R&D company which eventually morphed into everything. Some of these repos are polished... some are messy, as a perfectionist I now try to build in public as much as I can, I know all too well that learning in a (vacuum) produces unproductive outcomes...
 
-I conducted research at the [Terascale All-Sensing Research Studio](https://tars-home.github.io/) (TARS) under Sean and Natasha Banerjee in XR, robotics, CV, MLK, and AI. During u.g. I also ran the Google sponsored [Google Developer Student Club](https://www.instagram.com/clarkson_gdsc/), teaching people about XR, Cloud, and Web technologies for 2 years. I first started becoming really swag once I started attending MIT Reality Hack which I disccovered through running the GDSC, which propelled my career in experimental creative and augmentation technology.
+right now I advise engineering & research at [Doppel Labs](https://www.doppellabs.ai/) and [Wallace](https://www.wallace.so/). I’m also collaborating with [Augmentiv Labs](https://www.augmentivlabs.com/) on a scientific reproducibility stack that uses smartglasses to make lab procedures verifiable and repeatable. from nov 2024 to aug 2025 I was the first non-founding engineer at [Fabublox](https://www.fabublox.com/), an MIT Nanotechnology collaboration, simulation, and process design spin-out startup where I upgraded their process editor, created their version control system, and built out a full-stack AI system called PANDA (Process && Nanofab Design Assistant) to help Fab Services be more intuitive to access across facilities, among other awesome things (like accelerating the entire dev team w/ Vite && Cursor && Claude).
+
+At Clarkson from 2019-2023, I conducted research at the [Terascale All-Sensing Research Studio](https://tars-home.github.io/) (TARS) under Sean and Natasha Banerjee in XR, robotics, CV, MLK, and AI. During u.g. I also ran the Google sponsored [Google Developer Student Club](https://www.instagram.com/clarkson_gdsc/), teaching people about XR, Cloud, and Web technologies for 2 years. I first started becoming really swag once I started attending MIT Reality Hack which I disccovered through running the GDSC, which propelled my career in experimental creative and augmentation technology.
 
 I also once prompted AI to generate [a dating website for worms](https://slitherin.vercel.app/) and [inspired someone to stageplay my AI-generated youtube dialogues at an off-broadway theater in Brooklyn](https://github.com/Caerii/AI_Dialogues_2022), so calibrate accordingly.
 
 ## breadth (fast scan)
 
-If you’re trying to understand range quickly: this account is a mix of XR prototypes, research code, web tools, civic projects, and odd art experiments. The list below is curated, but the repo index is the real proof: [`github.com/Caerii?tab=repositories`](https://github.com/Caerii?tab=repositories).
+if... you’re trying to glimpse my polymath range rather quickly*: this account is a mix of XR prototypes, research code, web tools, civic projects, and odd art experiments. The list below is curated, but the repo index is the real proof: [`github.com/Caerii?tab=repositories`](https://github.com/Caerii?tab=repositories).
 
 ## active threads
 
