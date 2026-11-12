@@ -158,7 +158,7 @@ This is the “everything else” map — classes, prototypes, websites, one-off
   - [**CodePathAndroidPrework**](https://github.com/Caerii/CodePathAndroidPrework): early Android/Kotlin learning app.
 
 - **weird artifacts**
-  - [**EnviroVoiceImpersonator-EVI**](https://github.com/Caerii/EnviroVoiceImpersonator-EVI): “stick it on objects and it’ll talk” local model physical object "hat" prototype energy.
+  - [**EnviroVoiceImpersonator-EVI**](https://github.com/Caerii/EnviroVoiceImpersonator-EVI): “stick it on objects and it’ll talk” local model physical object "hat" prototype energy. We actually never ended up building this... yet?
   - [**slither.in**](https://slitherin.vercel.app/): the worm dating website (yes, really).
   - [**AI_Dialogues_2022**](https://github.com/Caerii/AI_Dialogues_2022): AI-generated dialogues staged as theater.
 
